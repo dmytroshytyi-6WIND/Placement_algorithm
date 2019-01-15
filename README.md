@@ -1,6 +1,14 @@
 # Placement_algorithm
 
 Dependecies:
-	- tkinter
-	- python-networkx-1.11 1.11-1
-	- matplotlib < v3.
+
+	- pacman -S tk
+
+	- yaourt python-networkx-1.11 1.11-1
+
+ 	- yaourt install decorator
+	
+	- yaourt python-numpy
+
+	- sudo pip install "matplotlib<3"
+
