@@ -40,9 +40,10 @@ UBUNTU:
 	- #pip install "matplotlib<3"
 	
 ## Other
-Autor:
+Autors:
 
-	Dmytro Shytyi.
+	Dmytro Shytyi;
+	Luigi Iannone;
 	
 		site: https://dmytro.shytyi.net
 		
