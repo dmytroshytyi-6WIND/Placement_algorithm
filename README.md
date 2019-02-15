@@ -9,7 +9,7 @@ In practice, the most common approach to solve the type of such problems, is des
 	- relative point centrality was suggested by Beauchamp.
 
 ## How to choose the topology:
-The program can generate a topology based on the described in the paper model or you may feed the topology in the csv file in the next format:
+The program can generate a topology based on the described in the paper(Augmenter la disponibilité des orchestrateurs VNF-Dmytro Shytyi et Luigi Iannone) model or you may feed the topology in the csv file in the next format:
 
 	NODE1, NODE2, Latency between NODE1 and NODE2
 	NODE3, NODE2, Latency between NODE3 and NODE2
