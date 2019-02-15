@@ -1,5 +1,5 @@
 #Authors:   Dmytro Shytyi
-            Luigi Iannone   
+#           Luigi Iannone   
 #Site: https://dmytro.shytyi.net
 #mail: contact.dmytro@shytyi.net
 #Licence: GPL
