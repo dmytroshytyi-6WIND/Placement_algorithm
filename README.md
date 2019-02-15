@@ -39,6 +39,7 @@ UBUNTU:
 	- #apt-get install python3-venv
 	- #pip install "matplotlib<3"
 	
+## Other
 Autor:
 
 	Dmytro Shytyi.
@@ -50,3 +51,10 @@ Autor:
 License: 
 
 	GPL.
+## Screenshots
+Initial window where we set the parameters:
+![alt text](https://github.com/dmytroshytyi/Placement_algorithm/blob/master/Screenshot1.png "Screenshot 1")
+The topology is displayed in the screen below:
+![alt text](https://github.com/dmytroshytyi/Placement_algorithm/blob/master/Screenshot2.png "Screenshot 2")
+Result of the placement is presented below. In the appeared rectangle you may find the place(name of the nodes) where you should place the orchestrators:
+![alt text](https://github.com/dmytroshytyi/Placement_algorithm/blob/master/Screenshot3.png "Screenshot 3")
