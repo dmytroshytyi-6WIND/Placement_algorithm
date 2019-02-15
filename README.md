@@ -21,6 +21,7 @@ The program can generate a topology based on the described in the paper(Augmente
 
 
 ## Dependecies:
+ARCHLINUX:
 
 	- pacman -S tk
 
@@ -31,10 +32,21 @@ The program can generate a topology based on the described in the paper(Augmente
 	- yaourt python-numpy
 
 	- sudo pip install "matplotlib<3"
-
+UBUNTU:
+	
+	- #apt-get install python3-tk
+	- #apt-get install python3-networkx
+	- #apt-get install python3-venv
+	- #pip install "matplotlib<3"
+	
 Autor:
+
 	Dmytro Shytyi.
+	
 		site: https://dmytro.shytyi.net
+		
 		mail: contact.dmytro@shytyi.net
+		
 License: 
+
 	GPL.
